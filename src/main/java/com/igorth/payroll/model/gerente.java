@@ -1,3 +1,5 @@
+package com.igorth.payroll.model
+
 public class gerente extends funcionario{
     
     private double salario_base;
