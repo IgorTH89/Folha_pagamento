@@ -1,3 +1,5 @@
+package com.igorth.payroll.model
+
 public class estagiario extends funcionario {
     private double bolsa_estudos;
 
