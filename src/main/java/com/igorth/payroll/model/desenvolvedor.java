@@ -1,3 +1,5 @@
+package com.igorth.payroll.model
+
 public class desenvolvedor extends funcionario {
     private double salario_fixo;
     private double bonus_project;
