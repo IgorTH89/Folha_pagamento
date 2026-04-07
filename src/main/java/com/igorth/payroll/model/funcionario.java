@@ -1,3 +1,5 @@
+package com.igorth.payroll.model
+
 public abstract class funcionario {
     private String nome;
     private int id;
